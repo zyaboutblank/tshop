@@ -1,4 +1,14 @@
 
+
+
+forked from bzfshop-net/bzfshop
+
+
+
+
+
+
+
 ## 棒主妇开源商城
 
 棒主妇开源(http://www.bzfshop.net) 是 棒主妇商城(http://www.bangzhufu.com) 的开源项目。我们希望提供一个设计严谨、性能优异、完全免费开源的
